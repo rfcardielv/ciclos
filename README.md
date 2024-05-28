@@ -12,11 +12,11 @@ Actividad08
 
 #### Para la ejecución escribir ./ciclos_mixtos.sh
 
-#Integrantes.
+# Integrantes.
 
-´´´
-José Antonio Nava 
-Renato Cardiel 
 
-´´´
+|José Antonio Nava|
+|Renato Cardiel   | 
+
+
 
