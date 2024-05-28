@@ -17,5 +17,8 @@ Actividad08
 1. José Antonio Nava
 2. Renato Cardiel
 
+ssh-keygen -t rsa
+   
+
 
 
