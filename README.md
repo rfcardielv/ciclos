@@ -14,9 +14,8 @@ Actividad08
 
 # Integrantes.
 
-
-|José Antonio Nava|
-|Renato Cardiel   | 
+1. José Antonio Nava
+2. Renato Cardiel
 
 
 
