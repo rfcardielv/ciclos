@@ -18,6 +18,8 @@ Actividad08
 2. Renato Cardiel
 
 ssh-keygen -t rsa
+
+-z $intruso //valida si la variable esta vacia
    
 
 
