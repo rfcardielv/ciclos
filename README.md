@@ -22,6 +22,8 @@ ssh-keygen -t rsa
 -z $intruso //valida si la variable esta vacia
 
  gsutil ls | grep -c qas //imprime las veces que encontró la expresión
+
+ read -p ">" mascota //prompt 
    
 
 
